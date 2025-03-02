@@ -1,40 +1,50 @@
-# Hi there! 👋 I'm Shriyansh
+<h1 align="center">👋 Hey there! I'm Shriyansh Kushwaha</h1>
+<h3 align="center">🚀 Mobile App Developer | Backend Devloper | Tech Enthusiast</h3>
+<p align="center">Passionate about building scalable mobile apps with <b>Flutter & Kotlin</b>, developing robust backend solutions with <b>Node.js & Firebase</b>, and optimizing performance with <b>Data Structures & Algorithms</b>. Currently diving into <b>Machine Learning</b> and system design.</p>
 
-## 🚀 About Me
-I'm a passionate **Software Engineer** specializing in **mobile and backend development**. I love building robust applications with **Flutter, Kotlin, Node.js, and MongoDB** and optimizing performance using **algorithms and data structures**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shriyanshkush&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-## 🛠 Tech Stack
-- **Mobile Development:** Flutter, Kotlin
-- **Backend Development:** Node.js, Express.js, Firebase
-- **Databases:** MongoDB, Firestore, SQL
-- **Cloud & DevOps:** Firebase Cloud Functions, Stripe API
-- **Programming Languages:** Dart, JavaScript, Kotlin, C++
-- **Version Control:** Git, GitHub
+---
 
-## 🌟 Projects
-### 🔹 ProFixer
-A mobile app that connects users with skilled technicians for home and office repairs.
-- **Tech Stack:** Flutter, Firebase, Stripe API
-- **Features:** Real-time booking, technician availability, chat, payment integration
+## 🌱 What I'm Currently Learning
+- 🔹 **Machine Learning Algorithms** for intelligent system optimization.
+- 🔹 **Advanced Flutter Animations** for stunning UI/UX.
+- 🔹 **System Design & Scalability** for high-performance applications.
 
-### 🔹 PokiApp
-A Pokémon app built using Flutter and PokéAPI.
-- **Tech Stack:** Flutter, Dart, REST API
-- **Features:** Pokémon listing, details, search functionality
+---
 
-### 🔹 Graph Algorithm Visualizer
-A tool to visualize various graph algorithms in action.
-- **Tech Stack:** JavaScript, D3.js
-- **Features:** Pathfinding algorithms, interactive UI
+## 📬 Connect with Me
+<p align="center">
+  <a href="mailto:shriyanshk133@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shriyansh-kushwaha-88357a28a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/shriyanshkush" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-## 📚 Learning & Interests
-- **Graph algorithms & data structures**
-- **Machine Learning for route optimization**
-- **Building scalable backend systems**
+---
 
-## 📫 Let's Connect!
-- **GitHub:** [@Shriyansh](https://github.com/your-username)
-- **LinkedIn:** [Shriyansh](https://linkedin.com/in/your-profile)
-- **Email:** your-email@example.com
+## 🛠 Tech Stack & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,kotlin,dart,nodejs,express,firebase,mongodb,mysql,git,github,linux,python,javascript" alt="Tech Stack" />
+</p>
 
-🚀 Always open to exciting opportunities and collaborations!
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shriyanshkush&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shriyanshkush&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shriyanshkush&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+---
+<p align="center">
+🎯 **Always open to collaboration and innovative projects! Let's build something amazing together! 🚀**
+</p>
