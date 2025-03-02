@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there! 👋 I'm Shriyansh
 
-<!--
-**shriyanshkush/shriyanshkush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate **Software Engineer** specializing in **mobile and backend development**. I love building robust applications with **Flutter, Kotlin, Node.js, and MongoDB** and optimizing performance using **algorithms and data structures**.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Mobile Development:** Flutter, Kotlin
+- **Backend Development:** Node.js, Express.js, Firebase
+- **Databases:** MongoDB, Firestore, SQL
+- **Cloud & DevOps:** Firebase Cloud Functions, Stripe API
+- **Programming Languages:** Dart, JavaScript, Kotlin, C++
+- **Version Control:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Projects
+### 🔹 ProFixer
+A mobile app that connects users with skilled technicians for home and office repairs.
+- **Tech Stack:** Flutter, Firebase, Stripe API
+- **Features:** Real-time booking, technician availability, chat, payment integration
+
+### 🔹 PokiApp
+A Pokémon app built using Flutter and PokéAPI.
+- **Tech Stack:** Flutter, Dart, REST API
+- **Features:** Pokémon listing, details, search functionality
+
+### 🔹 Graph Algorithm Visualizer
+A tool to visualize various graph algorithms in action.
+- **Tech Stack:** JavaScript, D3.js
+- **Features:** Pathfinding algorithms, interactive UI
+
+## 📚 Learning & Interests
+- **Graph algorithms & data structures**
+- **Machine Learning for route optimization**
+- **Building scalable backend systems**
+
+## 📫 Let's Connect!
+- **GitHub:** [@Shriyansh](https://github.com/your-username)
+- **LinkedIn:** [Shriyansh](https://linkedin.com/in/your-profile)
+- **Email:** your-email@example.com
+
+🚀 Always open to exciting opportunities and collaborations!
