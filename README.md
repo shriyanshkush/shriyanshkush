@@ -9,9 +9,9 @@
 ---
 
 ## 🌱 What I'm Currently Learning
-- 🔹 **Machine Learning Algorithms** for intelligent system optimization.
-- 🔹 **Advanced Flutter Animations** for stunning UI/UX.
-- 🔹 **System Design & Scalability** for high-performance applications.
+- 🔹 **Machine Learning Algorithms** – Building intelligent systems with models like regression, classification, clustering, and neural networks.
+- 🔹 **Kotlin & Jetpack Compose** – Developing modern Android apps using declarative UI, MVVM architecture, Room DB, and Firebase.
+- 🔹 **System Design & Scalability** – Designing scalable, high-performance backend systems with load balancing, caching, databases, and clean architecture.
 
 ---
 
