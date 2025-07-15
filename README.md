@@ -1,6 +1,11 @@
 <h1 align="center">👋 Hey there! I'm Shriyansh Kushwaha</h1>
-<h3 align="center">🚀 Mobile App Developer | Backend Devloper | Tech Enthusiast</h3>
-<p align="center">Passionate about building scalable mobile apps with <b>Flutter & Kotlin</b>, developing robust backend solutions with <b>Node.js & Firebase</b>, and optimizing performance with <b>Data Structures & Algorithms</b>. Currently diving into <b>Machine Learning</b> and system design.</p>
+<h3 align="center">🚀 Mobile App Developer | Backend Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  Passionate about building scalable and intelligent applications with <b>Flutter</b>, <b>Kotlin + Jetpack Compose</b>, and <b>Node.js</b>. <br>
+  Strong foundation in <b>DSA</b>, <b>System Design</b>, and <b>Clean Architecture</b>. <br>
+  Currently exploring <b>Machine Learning</b> and creating real-world solutions that deliver impact.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shriyanshkush&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
