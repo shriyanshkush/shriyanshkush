@@ -50,107 +50,72 @@ and high-performance backend services.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Skills
 
-## 💻 Languages
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/> <b>C++</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=python" height="40"/> <b>Python</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=kotlin" height="40"/> <b>Kotlin</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=dart" height="40"/> <b>Dart</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/> <b>JavaScript</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/> <b>SQL</b>
+<p align="center">💻 <b>Programming Languages</b></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,py,kotlin,dart,js,mysql" />
 </p>
 
----
+<p align="center"><i>C++ • Python • Kotlin • Dart • JavaScript • SQL</i></p>
 
-## 📱 Mobile Development
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio" height="40"/> <b>Android Studio</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=kotlin" height="40"/> <b>Kotlin</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flutter" height="40"/> <b>Flutter</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=firebase" height="40"/> <b>Firebase</b>
+<p align="center">📱 <b>Mobile Development</b></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase" />
 </p>
 
-**Architecture & Libraries**
+<p align="center"><i>Android Studio • Kotlin • Flutter • Firebase</i></p>
+<p align="center"><i>Jetpack Compose • MVVM • Room • Retrofit • Coroutines/Flow • Hilt • Clean Architecture • BLoC • Paging 3</i></p>
 
-- Jetpack Compose
-- MVVM
-- Room Database
-- Navigation Component
-- Retrofit
-- Coroutines
-- Flow
-- Hilt/Dagger
-- Clean Architecture
-- BLoC (Flutter)
-- Paging 3
+<br>
 
----
+<p align="center">⚙️ <b>Backend Development</b></p>
 
-## ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> <b>Node.js</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=express" height="40"/> <b>Express.js</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> <b>FastAPI</b>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
 </p>
 
-**Backend Skills**
+<p align="center"><i>Node.js • Express.js • FastAPI</i></p>
+<p align="center"><i>REST APIs • JWT Auth • WebSockets • Socket.IO • WebRTC • RBAC</i></p>
 
-- REST APIs
-- JWT Authentication
-- WebSockets
-- Socket.IO
-- WebRTC
-- Server-side Pagination
-- Role-Based Access Control
+<br>
 
----
+<p align="center">🗄️ <b>Databases</b></p>
 
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres" height="40"/> <b>PostgreSQL</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/> <b>MySQL</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" height="40"/> <b>MongoDB</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=firebase" height="40"/> <b>Firestore</b>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
 </p>
 
----
+<p align="center"><i>PostgreSQL • MySQL • MongoDB • Firestore</i></p>
 
-## 🤖 AI / Machine Learning
+<br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="40"/> <b>Python</b>
+<p align="center">🤖 <b>AI / Machine Learning</b></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,sklearn" />
 </p>
 
-**Libraries & Frameworks**
+<p align="center"><i>Python • Scikit-learn</i></p>
+<p align="center"><i>NumPy • Pandas • Matplotlib • LangChain • ChromaDB • RAG • Gemini AI • Reinforcement Learning • Streamlit</i></p>
 
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- LangChain
-- ChromaDB
-- Retrieval-Augmented Generation (RAG)
-- Gemini AI
-- Reinforcement Learning (Q-learning, Multi-Agent Systems)
-- Streamlit
+<br>
 
----
+<p align="center">🛠 <b>Tools & Platforms</b></p>
 
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git" height="40"/> <b>Git</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" height="40"/> <b>GitHub</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" height="40"/> <b>VS Code</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=linux" height="40"/> <b>Linux</b>&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" height="40"/> <b>Postman</b>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
+
+<p align="center"><i>Git • GitHub • VS Code • Linux • Postman</i></p>
+
+<br>
 
 ---
 
