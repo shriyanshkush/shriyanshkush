@@ -1,29 +1,40 @@
-<h1 align="center">👋 Hi, I'm Shriyansh Kushwaha</h1>
+<div align="center">
 
-<h3 align="center">
-Android Developer • Flutter Developer • AI/ML Developer • Backend Developer
-</h3>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Shriyansh+Kushwaha;Android+Developer;Flutter+Developer;AI%2FML+Developer;Backend+Developer" alt="Typing SVG" />
 
-<p align="center">
-Ex-Software Engineering Intern @ <b>Maximizze Media</b> • Ex-Software Engineering Intern @ <b>ReduxCo Tech Industries</b><br>
-🏆 National Semi-Finalist – Flipkart GRiD 7.0
-</p>
+<br/>
 
-<p align="center">
-I enjoy building scalable mobile applications, intelligent AI-powered systems,
+<img src="https://img.shields.io/badge/Ex--SWE%20Intern-Maximizze%20Media-6366F1?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ex--SWE%20Intern-ReduxCo%20Tech%20Industries-6366F1?style=for-the-badge&logo=briefcase&logoColor=white"/>
+<img src="https://img.shields.io/badge/🏆%20National%20Semi--Finalist-Flipkart%20GRiD%207.0-F59E0B?style=for-the-badge"/>
+
+<br/><br/>
+
+<p width="80%">
+I enjoy building scalable mobile applications, intelligent AI-powered systems,<br/>
 and high-performance backend services.
 </p>
 
-<p align="center">
-💙 Android Development &nbsp; • &nbsp;
-📱 Flutter &nbsp; • &nbsp;
-🤖 AI/ML & Generative AI &nbsp; • &nbsp;
-⚙️ Backend Engineering
-</p>
+<br/>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=shriyanshkush&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+<img src="https://img.shields.io/badge/💙_Android_Development-141414?style=flat-square"/>&nbsp;
+<img src="https://img.shields.io/badge/📱_Flutter-141414?style=flat-square"/>&nbsp;
+<img src="https://img.shields.io/badge/🤖_AI/ML_&_Generative_AI-141414?style=flat-square"/>&nbsp;
+<img src="https://img.shields.io/badge/⚙️_Backend_Engineering-141414?style=flat-square"/>
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyansh-kushwaha-88357a28a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriyanshkush)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shriyanshk133@gmail.com)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=shriyanshkush&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<br/>
 
 ---
 
@@ -96,7 +107,60 @@ and high-performance backend services.
 
 <br>
 
-<p align="center">🤖 <b>AI / Machine Learning</b></p>
+<p align="center">🧠 <b>Machine Learning & Deep Learning</b></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />&nbsp;
+<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=00FFFF"/>
+</p>
+
+<p align="center"><i>TensorFlow • PyTorch • Scikit-learn • OpenCV • YOLO</i></p>
+
+<br>
+
+<p align="center">📝 <b>NLP</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-3776AB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-2C3E50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gensim-2B2B2B?style=for-the-badge"/>
+</p>
+
+<p align="center"><i>Hugging Face • Transformers • Embeddings • spaCy • NLTK • Gensim</i></p>
+
+<br>
+
+<p align="center">🧬 <b>Generative AI</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAGAS-6B4FBB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=gcp" />&nbsp;
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vector_Databases-FF6F61?style=for-the-badge"/>
+</p>
+
+<p align="center"><i>LangChain • LangGraph • RAGAS • LLMs • Gemini API • Vector Databases</i></p>
+
+<br>
+
+<p align="center">📊 <b>Data Processing & Visualization</b></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pandas,numpy" />&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
+
+<p align="center"><i>Pandas • NumPy • Matplotlib • Seaborn</i></p>
+
+<br>
+
+<p align="center">🤖 <b>AI / Machine Learning (Applied)</b></p>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=py,sklearn" />
@@ -104,6 +168,17 @@ and high-performance backend services.
 
 <p align="center"><i>Python • Scikit-learn</i></p>
 <p align="center"><i>NumPy • Pandas • Matplotlib • LangChain • ChromaDB • RAG • Gemini AI • Reinforcement Learning • Streamlit</i></p>
+
+<br>
+
+<p align="center">☁️ <b>DevOps & Tools</b></p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode,jupyter,linux,windows" />&nbsp;
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
+
+<p align="center"><i>Docker • AWS • Git • GitHub • Postman • n8n • VS Code • Jupyter • Linux • Windows</i></p>
 
 <br>
 
