@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Shriyansh+Kushwaha;Android+Developer;Flutter+Developer;AI%2FML+Developer;Backend+Developer" alt="Typing SVG" />
+# 👋 Hi, I'm Shriyansh Kushwaha
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Android+Developer;Flutter+Developer;AI%2FML+Developer;Backend+Developer" alt="Typing SVG" />
 
 <br/>
 
@@ -110,8 +112,8 @@ and high-performance backend services.
 <p align="center">🧠 <b>Machine Learning & Deep Learning</b></p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" />&nbsp;
-<img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=00FFFF"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" height="48"/>&nbsp;
+<img src="https://cdn.simpleicons.org/ultralytics/00FFFF" height="48" title="YOLO"/>
 </p>
 
 <p align="center"><i>TensorFlow • PyTorch • Scikit-learn • OpenCV • YOLO</i></p>
@@ -121,11 +123,11 @@ and high-performance backend services.
 <p align="center">📝 <b>NLP</b></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Transformers-3776AB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLTK-2C3E50?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gensim-2B2B2B?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" title="Hugging Face"/>&nbsp;
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" title="Transformers"/>&nbsp;
+<img src="https://cdn.simpleicons.org/spacy/09A3D5" height="48" title="spaCy"/>&nbsp;
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/owl_1f989.png" height="44" title="NLTK"/>&nbsp;
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/robot_1f916.png" height="44" title="Gensim"/>
 </p>
 
 <p align="center"><i>Hugging Face • Transformers • Embeddings • spaCy • NLTK • Gensim</i></p>
@@ -135,13 +137,12 @@ and high-performance backend services.
 <p align="center">🧬 <b>Generative AI</b></p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAGAS-6B4FBB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
-<img src="https://skillicons.dev/icons?i=gcp" />&nbsp;
-<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vector_Databases-FF6F61?style=for-the-badge"/>
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" title="LangChain"/>&nbsp;
+<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="48" title="LangGraph"/>&nbsp;
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/bar-chart_1f4ca.png" height="44" title="RAGAS"/>&nbsp;
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/brain_1f9e0.png" height="44" title="LLMs"/>&nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" title="Gemini API"/>&nbsp;
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/card-file-box_1f5c3-fe0f.png" height="44" title="Vector Databases"/>
 </p>
 
 <p align="center"><i>LangChain • LangGraph • RAGAS • LLMs • Gemini API • Vector Databases</i></p>
@@ -151,9 +152,9 @@ and high-performance backend services.
 <p align="center">📊 <b>Data Processing & Visualization</b></p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pandas,numpy" />&nbsp;
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy" height="48"/>&nbsp;
+<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" title="Matplotlib"/>&nbsp;
+<img src="https://em-content.zobj.net/source/microsoft-teams/337/bar-chart_1f4ca.png" height="44" title="Seaborn"/>
 </p>
 
 <p align="center"><i>Pandas • NumPy • Matplotlib • Seaborn</i></p>
@@ -174,8 +175,8 @@ and high-performance backend services.
 <p align="center">☁️ <b>DevOps & Tools</b></p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode,jupyter,linux,windows" />&nbsp;
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode,jupyter,linux,windows" height="48"/>&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="n8n"/>
 </p>
 
 <p align="center"><i>Docker • AWS • Git • GitHub • Postman • n8n • VS Code • Jupyter • Linux • Windows</i></p>
