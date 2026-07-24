@@ -1,36 +1,27 @@
 <div align="center">
 
 # 👋 Hi, I'm Shriyansh Kushwaha
+### 🤖 Software Developer specializing in Android, Flutter & AI/ML
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Android+Developer;Flutter+Developer;AI%2FML+Developer;Backend+Developer" alt="Typing SVG" />
+<a href="https://github.com/shriyanshkush">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=58A6FF&width=500&lines=Android+Developer;Flutter+Developer;AI%2FML+Developer;Backend+Developer" alt="Typing SVG" />
+</a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Ex--SWE%20Intern-Maximizze%20Media-6366F1?style=for-the-badge&logo=briefcase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ex--SWE%20Intern-ReduxCo%20Tech%20Industries-6366F1?style=for-the-badge&logo=briefcase&logoColor=white"/>
-<img src="https://img.shields.io/badge/🏆%20National%20Semi--Finalist-Flipkart%20GRiD%207.0-F59E0B?style=for-the-badge"/>
-
-<br/><br/>
-
-<p width="80%">
-I enjoy building scalable mobile applications, intelligent AI-powered systems,<br/>
-and high-performance backend services.
-</p>
-
-<br/>
-
-<img src="https://img.shields.io/badge/💙_Android_Development-141414?style=flat-square"/>&nbsp;
-<img src="https://img.shields.io/badge/📱_Flutter-141414?style=flat-square"/>&nbsp;
-<img src="https://img.shields.io/badge/🤖_AI/ML_&_Generative_AI-141414?style=flat-square"/>&nbsp;
-<img src="https://img.shields.io/badge/⚙️_Backend_Engineering-141414?style=flat-square"/>
+<i>Building scalable mobile apps, intelligent AI-powered systems, and high-performance backends.</i>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriyansh-kushwaha-88357a28a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shriyanshkush)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shriyanshk133@gmail.com)
+<a href="https://www.linkedin.com/in/shriyansh-kushwaha-88357a28a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/shriyanshkush">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:shriyanshk133@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=shriyanshkush&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
