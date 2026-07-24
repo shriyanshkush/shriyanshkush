@@ -7,7 +7,10 @@
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&color=58A6FF&width=500&lines=Android+Developer;Flutter+Developer;AI%2FML+Developer;Backend+Developer" alt="Typing SVG" />
 </a>
 
+<p align="center">Ex-Software Engineering Intern @ <b>Maximizze Media</b> • Ex-Software Engineering Intern @ <b>ReduxCo Tech Industries</b><br>🏆 National Semi-Finalist – Flipkart GRiD 7.0</p>
+
 <i>Building scalable mobile apps, intelligent AI-powered systems, and high-performance backends.</i>
+
 
 <img src="https://komarev.com/ghpvc/?username=shriyanshkush&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 
