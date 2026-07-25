@@ -42,136 +42,111 @@
 - ☁️ System Design & Scalable Distributed Systems
 
 ---
+## 🛠️ Tech Stack & Tools
 
-# 🛠️ Skills
-
-<br>
-
-<p align="center">💻 <b>Programming Languages</b></p>
-
+<h3 align="center">💻 Programming Languages</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,py,kotlin,dart,js,mysql" />
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" height="55" alt="C" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55" alt="Kotlin" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="55" height="55" alt="Dart" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" alt="SQL" /></kbd>
 </p>
+<p align="center">Python • C++ • C • Kotlin • Dart • JavaScript • SQL</p>
 
-<p align="center"><i>C++ • Python • Kotlin • Dart • JavaScript • SQL</i></p>
-
-<br>
-
-<p align="center">📱 <b>Mobile Development</b></p>
-
+<h3 align="center">📱 Mobile Development</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,firebase" />
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="55" height="55" alt="Android Studio" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="55" height="55" alt="Kotlin" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="55" height="55" alt="Flutter" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firebase" /></kbd>
 </p>
-
-<p align="center"><i>Android Studio • Kotlin • Flutter • Firebase</i></p>
+<p align="center">Android Studio • Kotlin • Flutter • Firebase</p>
 <p align="center"><i>Jetpack Compose • MVVM • Room • Retrofit • Coroutines/Flow • Hilt • Clean Architecture • BLoC • Paging 3</i></p>
 
-<br>
-
-<p align="center">⚙️ <b>Backend Development</b></p>
-
+<h3 align="center">⚙️ Backend Development</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="55" height="55" alt="Express.js" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="55" height="55" alt="FastAPI" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="55" height="55" alt="Flask" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="55" height="55" alt="Redis" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.simpleicons.org/celery/37814A" width="55" height="55" alt="Celery" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.simpleicons.org/jsonwebtokens/000000" width="55" height="55" alt="JWT Auth" /></kbd>
 </p>
-
-<p align="center"><i>Node.js • Express.js • FastAPI</i></p>
+<p align="center">Node.js • Express.js • FastAPI • Flask • Redis • Celery</p>
 <p align="center"><i>REST APIs • JWT Auth • WebSockets • Socket.IO • WebRTC • RBAC</i></p>
 
-<br>
-
-<p align="center">🗄️ <b>Databases</b></p>
-
+<h3 align="center">🗄️ Databases</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase" />
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" alt="PostgreSQL" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55" height="55" alt="MySQL" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55" alt="Firestore" /></kbd>
 </p>
+<p align="center">PostgreSQL • MySQL • MongoDB • Firestore</p>
 
-<p align="center"><i>PostgreSQL • MySQL • MongoDB • Firestore</i></p>
-
-<br>
-
-<p align="center">🧠 <b>Machine Learning & Deep Learning</b></p>
-
+<h3 align="center">🧠 Machine Learning & Deep Learning</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" height="48"/>&nbsp;
-<img src="https://cdn.simpleicons.org/ultralytics/00FFFF" height="48" title="YOLO"/>
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" alt="TensorFlow" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" alt="PyTorch" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" height="55" alt="Scikit-learn" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" alt="OpenCV" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.simpleicons.org/ultralytics/111F68" width="55" height="55" alt="YOLO" /></kbd>
 </p>
+<p align="center">TensorFlow • PyTorch • Scikit-learn • OpenCV • YOLO</p>
 
-<p align="center"><i>TensorFlow • PyTorch • Scikit-learn • OpenCV • YOLO</i></p>
-
-<br>
-
-<p align="center">📝 <b>NLP</b></p>
-
+<h3 align="center">📝 NLP</h3>
 <p align="center">
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" title="Hugging Face"/>&nbsp;
-<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="48" title="Transformers"/>&nbsp;
-<img src="https://cdn.simpleicons.org/spacy/09A3D5" height="48" title="spaCy"/>&nbsp;
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/owl_1f989.png" height="44" title="NLTK"/>&nbsp;
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/robot_1f916.png" height="44" title="Gensim"/>
+  <kbd><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="55" height="55" alt="Hugging Face" /></kbd> &nbsp;
+  <kbd><img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="55" height="55" alt="Transformers" /></kbd> &nbsp;
+  <kbd><img src="https://img.icons8.com/color/96/scatter-plot.png" width="55" height="55" alt="Embeddings" /></kbd> &nbsp;
+  <kbd><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" width="55" height="55" alt="spaCy" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.simpleicons.org/readthedocs/000000" width="55" height="55" alt="NLTK" /></kbd> &nbsp;
+  <kbd><img src="https://radimrehurek.com/gensim/_static/images/gensim.png" width="55" height="55" alt="Gensim" /></kbd>
 </p>
+<p align="center">Hugging Face • Transformers • Embeddings • spaCy • NLTK • Gensim</p>
 
-<p align="center"><i>Hugging Face • Transformers • Embeddings • spaCy • NLTK • Gensim</i></p>
-
-<br>
-
-<p align="center">🧬 <b>Generative AI</b></p>
-
+<h3 align="center">🤖 Generative AI</h3>
 <p align="center">
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="48" title="LangChain"/>&nbsp;
-<img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="48" title="LangGraph"/>&nbsp;
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/bar-chart_1f4ca.png" height="44" title="RAGAS"/>&nbsp;
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/brain_1f9e0.png" height="44" title="LLMs"/>&nbsp;
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="48" title="Gemini API"/>&nbsp;
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/card-file-box_1f5c3-fe0f.png" height="44" title="Vector Databases"/>
+  <kbd><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="55" height="55" alt="LangChain" /></kbd> &nbsp;
+  <kbd><img src="https://img.icons8.com/color/48/graph-report.png" width="55" height="55" alt="LangGraph" /></kbd> &nbsp;
+  <kbd><img src="https://img.icons8.com/color/48/test-passed.png" width="55" height="55" alt="RAGAS" /></kbd> &nbsp;
+  <kbd><img src="https://img.icons8.com/color/48/bot.png" width="55" height="55" alt="LLMs" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="55" height="55" alt="Gemini API" /></kbd> &nbsp;
+  <kbd><img src="https://img.icons8.com/color/48/database--v1.png" width="55" height="55" alt="Vector Databases" /></kbd> &nbsp;
+  <kbd><img src="https://img.icons8.com/color/48/box.png" width="55" height="55" alt="ChromaDB" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="55" height="55" alt="Streamlit" /></kbd>
 </p>
+<p align="center">LangChain • LangGraph • RAGAS • LLMs • Gemini API • Vector Databases • ChromaDB • RAG • Reinforcement Learning • Streamlit</p>
 
-<p align="center"><i>LangChain • LangGraph • RAGAS • LLMs • Gemini API • Vector Databases</i></p>
-
-<br>
-
-<p align="center">📊 <b>Data Processing & Visualization</b></p>
-
+<h3 align="center">📊 Data Processing & Visualization</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=pandas,numpy" height="48"/>&nbsp;
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" height="48" title="Matplotlib"/>&nbsp;
-<img src="https://em-content.zobj.net/source/microsoft-teams/337/bar-chart_1f4ca.png" height="44" title="Seaborn"/>
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" alt="Pandas" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" alt="NumPy" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" height="55" alt="Matplotlib" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="55" height="55" alt="Seaborn" /></kbd>
 </p>
+<p align="center">Pandas • NumPy • Matplotlib • Seaborn</p>
 
-<p align="center"><i>Pandas • NumPy • Matplotlib • Seaborn</i></p>
-
-<br>
-
-<p align="center">🤖 <b>AI / Machine Learning (Applied)</b></p>
-
+<h3 align="center">☁️ DevOps & Tools</h3>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=py,sklearn" />
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="55" height="55" alt="Postman" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.simpleicons.org/n8n/EA4B71" width="55" height="55" alt="n8n" /></kbd>
 </p>
-
-<p align="center"><i>Python • Scikit-learn</i></p>
-<p align="center"><i>NumPy • Pandas • Matplotlib • LangChain • ChromaDB • RAG • Gemini AI • Reinforcement Learning • Streamlit</i></p>
-
-<br>
-
-<p align="center">☁️ <b>DevOps & Tools</b></p>
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,vscode,jupyter,linux,windows" height="48"/>&nbsp;
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="48" title="n8n"/>
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="55" height="55" alt="Jupyter" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="55" height="55" alt="Linux" /></kbd> &nbsp;
+  <kbd><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="55" height="55" alt="Windows" /></kbd>
 </p>
-
-<p align="center"><i>Docker • AWS • Git • GitHub • Postman • n8n • VS Code • Jupyter • Linux • Windows</i></p>
-
-<br>
-
-<p align="center">🛠 <b>Tools & Platforms</b></p>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
-</p>
-
-<p align="center"><i>Git • GitHub • VS Code • Linux • Postman</i></p>
-
-<br>
+<p align="center">Docker • AWS • Git • GitHub • Postman • n8n • VS Code • Jupyter • Linux • Windows</p>
 
 ---
 
