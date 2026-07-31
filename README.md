@@ -150,7 +150,7 @@
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+# 🚀 Featured Projects
 
 <p align="center">
 A showcase of my AI/ML, Android, and Flutter projects demonstrating expertise in
@@ -159,7 +159,7 @@ Machine Learning, Generative AI, modern Android development, and scalable cross-
 
 <br>
 
-# 🤖 AI / ML Projects
+### 🤖 AI / ML Projects
 
 <div align="center">
 
@@ -200,8 +200,7 @@ Machine Learning, Generative AI, modern Android development, and scalable cross-
 <td><code>Python</code> <code>FastAPI</code> <code>Q-Learning</code></td>
 <td>Autonomous multi-agent navigation using reinforcement learning and WebSockets.</td>
 <td>
-—
-•
+<a href="YOUR_DEPLOYMENT">🌐 Demo</a> •
 <a href="https://github.com/shriyanshkush/Multi-Agent-Reinforcement-Learning-Based-Autonomous-Navigation-System">📂 Repo</a>
 </td>
 </tr>
@@ -213,7 +212,7 @@ Machine Learning, Generative AI, modern Android development, and scalable cross-
 
 ---
 
-# 📱 Android Projects
+### 📱 Android Projects
 
 <div align="center">
 
@@ -234,8 +233,7 @@ Machine Learning, Generative AI, modern Android development, and scalable cross-
 <td><code>Kotlin</code> <code>Jetpack Compose</code> <code>Gemini</code> <code>Firebase</code></td>
 <td>AI-powered study assistant featuring quizzes, notes, TTS, STT and PDF learning.</td>
 <td>
-—
-•
+<a href="YOUR_DEPLOYMENT">🌐 Demo</a> •
 <a href="https://github.com/shriyanshkush/StudyBuddy">📂 Repo</a>
 </td>
 </tr>
@@ -245,8 +243,7 @@ Machine Learning, Generative AI, modern Android development, and scalable cross-
 <td><code>Kotlin</code> <code>Compose</code> <code>Paging 3</code> <code>Hilt</code></td>
 <td>Modern media browser with offline support, downloads and video playback.</td>
 <td>
-—
-•
+<a href="YOUR_DEPLOYMENT">🌐 Demo</a> •
 <a href="https://github.com/shriyanshkush/PixFlow-Media">📂 Repo</a>
 </td>
 </tr>
@@ -258,7 +255,7 @@ Machine Learning, Generative AI, modern Android development, and scalable cross-
 
 ---
 
-# 🦋 Flutter Projects
+### 📱 Flutter Projects
 
 <div align="center">
 
@@ -279,8 +276,7 @@ Machine Learning, Generative AI, modern Android development, and scalable cross-
 <td><code>Flutter</code> <code>Firebase</code> <code>Stripe</code></td>
 <td>Multi-role technician booking platform with chat, payments and real-time booking.</td>
 <td>
-—
-•
+<a href="YOUR_DEPLOYMENT">🌐 Demo</a> •
 <a href="https://github.com/shriyanshkush/ProFixer-ServiceBookingApp">📂 Repo</a>
 </td>
 </tr>
@@ -290,8 +286,7 @@ Machine Learning, Generative AI, modern Android development, and scalable cross-
 <td><code>Flutter</code> <code>WebRTC</code> <code>Socket.IO</code> <code>Node.js</code></td>
 <td>Peer-to-peer file sharing application using WebRTC with real-time progress tracking.</td>
 <td>
-—
-•
+<a href="YOUR_DEPLOYMENT">🌐 Demo</a> •
 <a href="https://github.com/shriyanshkush/PeerDrop">📂 Repo</a>
 </td>
 </tr>
@@ -301,8 +296,7 @@ Machine Learning, Generative AI, modern Android development, and scalable cross-
 <td><code>Flutter</code> <code>Node.js</code> <code>MongoDB</code></td>
 <td>Full-stack e-commerce application with authentication, cart and order management.</td>
 <td>
-—
-•
+<a href="YOUR_DEPLOYMENT">🌐 Demo</a> •
 <a href="https://github.com/shriyanshkush/ShopSphere">📂 Repo</a>
 </td>
 </tr>
