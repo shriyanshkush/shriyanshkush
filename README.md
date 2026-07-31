@@ -149,115 +149,160 @@
 <p align="center">Docker • AWS • Git • GitHub • Postman • n8n • VS Code • Jupyter • Linux • Windows</p>
 
 ---
+---
 
-# 🚀 Featured Projects
+# 🤖 AI / ML Projects
 
-## 🤖 AI / ML Projects
+<div align="center">
 
-### 🎫 MuseSphere — AI-Powered Museum Ticketing Platform
-🔗 [GitHub Repo](https://github.com/shriyanshkush/MuseSphere)
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Description</th>
+<th>Links</th>
+</tr>
+</thead>
 
-AI-powered museum ticketing platform with conversational booking, a RAG-based knowledge assistant, QR ticketing, analytics, and multilingual support.
+<tbody>
 
-**Tech Stack:** Flutter • FastAPI • PostgreSQL • LangChain • RAG • Gemini AI
+<tr>
+<td><b>🎫 MuseSphere</b></td>
+<td><code>Flutter</code> <code>FastAPI</code> <code>LangChain</code> <code>Gemini</code></td>
+<td>AI-powered museum ticketing platform with conversational booking, RAG assistant, analytics and QR ticketing.</td>
+<td>
+<a href="YOUR_DEPLOYMENT">🌐 Demo</a> •
+<a href="https://github.com/shriyanshkush/MuseSphere">📂 Repo</a>
+</td>
+</tr>
 
-**Highlights**
-- Conversational, chat-driven ticket booking flow
-- RAG-powered knowledge assistant for visitor Q&A
-- QR-code based digital ticketing
-- Analytics dashboard and multilingual support
+<tr>
+<td><b>📊 ChurnSense</b></td>
+<td><code>Python</code> <code>Streamlit</code> <code>Scikit-Learn</code> <code>Gemini</code></td>
+<td>Customer churn prediction platform with AI-generated retention strategies.</td>
+<td>
+<a href="YOUR_DEPLOYMENT">🌐 Demo</a> •
+<a href="https://github.com/shriyanshkush/Churn_Sense">📂 Repo</a>
+</td>
+</tr>
+
+<tr>
+<td><b>🧭 Multi-Agent RL</b></td>
+<td><code>Python</code> <code>FastAPI</code> <code>Q-Learning</code></td>
+<td>Autonomous multi-agent navigation using reinforcement learning and WebSockets.</td>
+<td>
+—
+•
+<a href="https://github.com/shriyanshkush/Multi-Agent-Reinforcement-Learning-Based-Autonomous-Navigation-System">📂 Repo</a>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
 
 ---
 
-### 🧭 Multi-Agent Reinforcement Learning — Autonomous Navigation System
-🔗 [GitHub Repo](https://github.com/shriyanshkush/Multi-Agent-Reinforcement-Learning-Based-Autonomous-Navigation-System)
+# 📱 Android Projects
 
-A Multi-Agent Reinforcement Learning platform that enables autonomous agents to learn efficient navigation policies using Q-learning, with real-time simulation and streaming.
+<div align="center">
 
-**Tech Stack:** Python • Q-Learning • FastAPI • WebSockets
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Description</th>
+<th>Links</th>
+</tr>
+</thead>
 
-**Highlights**
-- Multi-agent Q-learning for autonomous navigation policies
-- Real-time simulation with WebSocket-based live streaming
-- FastAPI backend for serving and coordinating agents
+<tbody>
 
----
+<tr>
+<td><b>📚 Study Buddy</b></td>
+<td><code>Kotlin</code> <code>Jetpack Compose</code> <code>Gemini</code> <code>Firebase</code></td>
+<td>AI-powered study assistant featuring quizzes, notes, TTS, STT and PDF learning.</td>
+<td>
+—
+•
+<a href="https://github.com/shriyanshkush/StudyBuddy">📂 Repo</a>
+</td>
+</tr>
 
-### 📊 ChurnSense — AI-Powered Customer Churn Prediction & Retention
-🔗 [GitHub Repo](https://github.com/shriyanshkush/Churn_Sense)
+<tr>
+<td><b>🖼️ PixFlow</b></td>
+<td><code>Kotlin</code> <code>Compose</code> <code>Paging 3</code> <code>Hilt</code></td>
+<td>Modern media browser with offline support, downloads and video playback.</td>
+<td>
+—
+•
+<a href="https://github.com/shriyanshkush/PixFlow-Media">📂 Repo</a>
+</td>
+</tr>
 
-A full-featured Streamlit web app that predicts customer churn using a trained ML model and leverages Google Gemini AI to generate smart retention plans and marketing strategies for at-risk customers.
+</tbody>
+</table>
 
-**Tech Stack:** Python • Streamlit • Scikit-learn • Gemini AI
-
-**Highlights**
-- Trained ML model for customer churn prediction
-- AI-generated retention plans and marketing strategies via Gemini
-- Interactive Streamlit dashboard for churn probability analysis
-
----
-
-## 📱 Flutter & Android Projects
-
-### 🖼️ PixFlow — Media Browser App
-🔗 [GitHub Repo](https://github.com/shriyanshkush/PixFlow-Media)
-
-**Tech Stack:** Kotlin • Jetpack Compose • MVVM • Hilt • Paging 3
-
-**Highlights**
-- Built a sleek media browsing app using the Pexels API, supporting 10,000+ image/video searches with smooth browsing
-- Implemented MVVM with Hilt DI and Paging 3, boosting API load efficiency by 40% and enabling seamless infinite scroll
-- Used Coil and ExoPlayer for fast image rendering and high-quality video playback, cutting load times to under 200ms
-- Built offline-first features with Room DB for 500+ saved items, scalable DownloadManager-based handling of 1,000+ downloads, and seamless native sharing
-
----
-
-### 📚 Study Buddy — AI-Powered Learning App
-🔗 [GitHub Repo](https://github.com/shriyanshkush/StudyBuddy)
-
-**Tech Stack:** Kotlin • Jetpack Compose • Gemini • Firebase
-
-**Highlights**
-- Built an AI-driven Android app integrating the Gemini API to parse JSON and dynamically render 100+ topic-wise theory, Q&A, and MCQs, boosting learning efficiency by 40%
-- Implemented scalable MVVM + Hilt DI, cutting boilerplate by 30% and enabling 2x faster feature development
-- Added TTS for PDF-to-audio and STT for voice notes, increasing user engagement time by 25%
-- Designed multi-screen navigation with NavGraph, reducing navigation bugs by 40% and improving usability
+</div>
 
 ---
 
-### 🔄 PeerDrop — Real-time P2P File Sharing Platform
-🔗 [GitHub Repo](https://github.com/shriyanshkush/PeerDrop)
+# 🦋 Flutter Projects
 
-**Tech Stack:** Flutter • WebRTC • Socket.IO • Node.js
+<div align="center">
 
-**Highlights**
-- Developed a Flutter-based peer-to-peer file sharing app using WebRTC data channels, enabling direct device-to-device file transfer with zero server-side storage
-- Implemented a Socket.IO-based signaling server (Node.js) for offer/answer/ICE exchange, enabling reliable peer discovery and connection setup across multiple devices
-- Built efficient chunked file transfer (16KB packets) with real-time progress tracking and BLoC-based state management for smooth, responsive UI updates
+<table>
+<thead>
+<tr>
+<th>Project</th>
+<th>Tech Stack</th>
+<th>Description</th>
+<th>Links</th>
+</tr>
+</thead>
 
----
+<tbody>
 
-### 🔧 ProFixer — Technician Booking Platform
-🔗 [GitHub Repo](https://github.com/shriyanshkush/ProFixer-ServiceBookingApp)
+<tr>
+<td><b>🔧 ProFixer</b></td>
+<td><code>Flutter</code> <code>Firebase</code> <code>Stripe</code></td>
+<td>Multi-role technician booking platform with chat, payments and real-time booking.</td>
+<td>
+—
+•
+<a href="https://github.com/shriyanshkush/ProFixer-ServiceBookingApp">📂 Repo</a>
+</td>
+</tr>
 
-**Tech Stack:** Flutter • Dart • Firebase • Stripe API
+<tr>
+<td><b>🔄 PeerDrop</b></td>
+<td><code>Flutter</code> <code>WebRTC</code> <code>Socket.IO</code> <code>Node.js</code></td>
+<td>Peer-to-peer file sharing application using WebRTC with real-time progress tracking.</td>
+<td>
+—
+•
+<a href="https://github.com/shriyanshkush/PeerDrop">📂 Repo</a>
+</td>
+</tr>
 
-**Highlights**
-- Built a scalable multi-role service booking platform (User/Technician/Admin) supporting 100+ test users, with modular workflows across 5+ service categories
-- Engineered a real-time booking engine using Firebase, enabling technician availability management with under 300ms latency and instant booking confirmations
-- Implemented real-time in-app chat and integrated secure Stripe-based payment flows with server-side validation, achieving a 98% payment success rate over 100+ simulated transactions
+<tr>
+<td><b>🛒 ShopSphere</b></td>
+<td><code>Flutter</code> <code>Node.js</code> <code>MongoDB</code></td>
+<td>Full-stack e-commerce application with authentication, cart and order management.</td>
+<td>
+—
+•
+<a href="https://github.com/shriyanshkush/ShopSphere">📂 Repo</a>
+</td>
+</tr>
 
----
+</tbody>
+</table>
 
-### 🛒 ShopSphere — Full-Stack E-Commerce Platform
-🔗 [GitHub Repo](https://github.com/shriyanshkush/ShopSphere)
-
-**Tech Stack:** Flutter • Node.js • Express • MongoDB
-
-**Highlights**
-- Developed a scalable full-stack e-commerce app with Flutter (Clean Architecture + BLoC) and a Node.js backend, supporting authentication, product browsing, cart, and order management
-- Built RESTful APIs with Express and MongoDB for product, user, and order management, handling 10+ core endpoints with secure JWT-based authentication and role-based access control
-- Designed modular feature-based architecture with optimized state management, reducing UI latency across 6+ core modules (auth, admin, checkout, orders, profile, home)
+</div>
 
 ---
 
