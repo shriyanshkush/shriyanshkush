@@ -149,7 +149,15 @@
 <p align="center">Docker • AWS • Git • GitHub • Postman • n8n • VS Code • Jupyter • Linux • Windows</p>
 
 ---
----
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+A showcase of my AI/ML, Android, and Flutter projects demonstrating expertise in
+Machine Learning, Generative AI, modern Android development, and scalable cross-platform applications.
+</p>
+
+<br>
 
 # 🤖 AI / ML Projects
 
